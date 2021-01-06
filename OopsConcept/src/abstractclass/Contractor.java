@@ -23,6 +23,7 @@ public void calculateSalary(int hr)
 		
 		
 		
+		
 
 	}
 
